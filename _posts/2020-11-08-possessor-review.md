@@ -1,8 +1,16 @@
 ---
 layout: post
 title: "Possessor Fails to Maintain Control"
-tags: [Jekyll, Tips]
+tags: [Movies, Culture]
 featured_image_thumbnail: assets/images/posts/possessor_small.jpg
 featured_image: assets/images/posts/possessor.jpg
-featured: true
+hidden: true
 ---
+
+Brandon Cronenberg's _Possessor_ aims to raise questions about the boundary of the self, but struggles to even raise its hand.
+
+Spectres of other, more focused works like _A Scanner Darkly_ and even Cronenberg's father's own _Deadly Ringers_ lurk throughout the film, filling in needed subtext. Suggestions of the loss of personal control or the boundaries of personality and gender melding into one another come from a few genuinely trippy visual sequences but seem supported by precious little in the actual story. This leads to a film of unexpectedly empty thematic weight given the setting, story, and lineage of its director.
+
+And story there is not much of, to be fair, although what there is suggests a fascinating and fleshed-out remake 20 years from now. Andrea Riseborough, filling in her yearly "midnight movie freakout" quota, plays Tasya, an corporate assassin who takes control of others' minds and forces them to carry out acts of murder -- to surruptitiously execute hostile corporate takeovers or get rid of inconvenient heirs, and so forth (think _Michael Clayton_ meets _eXistenz_). The opening sequence sees Tasya in possession of a young woman, who is in need of "calibration" and sticks a giant electrode into the top of her skull and begins cranking up the dial on a piece of machinery, crying as the electric hum gets steadily louder. The suggestion of a "host" still emotionally aware of the terrible things they are being forced to perform is something hinted at, but never convincingly explored, throughout the entirety of the film.
+
+When Tasya gets the assignment leading us to the second act, she appears to be stuck between herself and her latest string of hosts, unable to remember certain details of her life and needing to practice saying hello to her own husband and child. Again the opportunity is more interesting than the execution, as uninspired staging and framing during these awkward familial converstaions lean more mumblecore than mindfuck.
